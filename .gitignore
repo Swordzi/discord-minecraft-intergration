@@ -1,0 +1,14 @@
+# Environment variables
+bot/.env 
+
+# Build files
+bot/node_modules/
+bot/.node_modules/
+
+# Pnpm files
+bot/pnpm-lock.yaml
+
+# IDE Folders
+**/.vs
+**/.vscode/*
+.idea
